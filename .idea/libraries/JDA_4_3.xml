@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="JDA-4.3">
+    <CLASSES>
+      <root url="file://D:/Projects/Programming/Libraries/JDA/JDA-4.3.0_305" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/Projects/Programming/Libraries/JDA/JDA-4.3.0_305" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Projects/Programming/Libraries/JDA/JDA-4.3.0_305" recursive="false" />
+    <jarDirectory url="file://D:/Projects/Programming/Libraries/JDA/JDA-4.3.0_305" recursive="false" type="SOURCES" />
+  </library>
+</component>
